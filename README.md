@@ -1,6 +1,6 @@
 # Desafios Técnicos
 
-Repositório com soluções para desafios de programação em C#.
+Repositório com soluções para desafios de programação.
 
 ## Exercícios
 
